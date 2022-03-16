@@ -1,0 +1,8 @@
+Created user: Jackson
+Created Post with postID: 1
+Created comment with commentID 1 for postID 1
+Created comment with commentID 2 for postID 1
+Deleted comment with commentID 2
+Deleted comment with commentID 1
+Deleted Post with postID: 1
+Deleted user with userID: 1
