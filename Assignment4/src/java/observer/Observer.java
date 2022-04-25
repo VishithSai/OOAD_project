@@ -1,6 +1,6 @@
 package observer;
 
-public abstract class Observer {
-   protected Subject subject;
-   public abstract void update();
+public interface Observer 
+{
+    public void update(Message m);
 }
